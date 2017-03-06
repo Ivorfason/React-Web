@@ -3,9 +3,9 @@ Translate React-Native to a Web Page...
 
 # Usage Step
 
-npm install
-npm start
-react-web start
+npm install</br>
+npm start</br>
+react-web start</br>
 react-web bundle(optional)
 
 # PreView
