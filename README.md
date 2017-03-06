@@ -3,10 +3,10 @@ Translate React-Native to a Web Page...
 
 # Usage Step
 
-npm install</br>
-npm start</br>
-react-web start</br>
-react-web bundle(optional)
+ - npm install</br></br>
+ - npm start</br></br>
+ - react-web start</br></br>
+ - react-web bundle(optional)
 
 # PreView
 ![Ivor](/image/img.png)
